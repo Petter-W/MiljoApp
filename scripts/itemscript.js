@@ -61,7 +61,7 @@ function getTips(){
 
 function getMap(){
 	resetThis(".map");
-	$( "#mainContent" ).html("<img src='../../img/map.png' alt='map' class='map' /><img src='../../icons/locate.png' alt='map' class='locate' />");
+	$( "#mainContent" ).html("<img src='img/map.png' alt='map' class='map' /><img src='icons/locate.png' alt='map' class='locate' />");
 }
 
 $(document).ready(function () {
