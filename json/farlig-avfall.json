@@ -1,0 +1,82 @@
+
+{
+	"garbage": [
+		{
+			"title": "Syre",
+			"URLfriendlyName": "bilbatteri",
+			"info": [
+				{
+					"text": "Kast i søpla",
+					"value": false,
+					"additionalInfo": "Det er veldig skadelig for miljøet å kaste bilbatterier sammen med normalt søppel."
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Lever på gjenbrukssatsjon",
+					"value": true,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": true,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			],
+			"tips": "Tekst"
+		},{
+			"title": "Andre farligheter",
+			"URLfriendlyName": "andre-farligheter",
+			"info": [
+				{
+					"text": "Kast i søpla",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kast i søpla",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kast i søpla",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			]
+		},{
+			"title": "Hvitevarer",
+			"URLfriendlyName": "hvitevarer",
+			"info": [
+				{
+					"text": "Kast i søpla",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kast i søpla",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kast i søpla",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			]
+		}
+	]
+}
