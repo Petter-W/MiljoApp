@@ -33,7 +33,7 @@ function getInfoFromJSON() {
 					} else{
 						infoString += "<p class='dont infoline'>";
 					}
-					infoString += this.text + "<span class='dropDownButton'>V</span></p>";
+					infoString += this.text + "<span class='dropDownButton'></span></p>";
 					infoString += "<p class='additionalInfo'>" + this.additionalInfo + "</p>";
 				});
 			}

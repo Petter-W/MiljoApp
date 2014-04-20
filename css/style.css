@@ -7,6 +7,9 @@
 
   body {
     background-color: red; } }
+#mobile {
+  width: 320px; }
+
 h1, h2, h3, h4, h5, p, a {
   color: #000;
   text-align: center;
@@ -41,52 +44,41 @@ img.pose {
   width: 70%;
   margin: 0 15%; }
 
-.button {
+a.button {
   background-color: #ededed;
-  -webkit-border-top-left-radius: 6px;
-  -moz-border-radius-topleft: 6px;
-  border-top-left-radius: 6px;
-  -webkit-border-top-right-radius: 6px;
-  -moz-border-radius-topright: 6px;
-  border-top-right-radius: 6px;
-  -webkit-border-bottom-right-radius: 6px;
-  -moz-border-radius-bottomright: 6px;
-  border-bottom-right-radius: 6px;
-  -webkit-border-bottom-left-radius: 6px;
-  -moz-border-radius-bottomleft: 6px;
-  border-bottom-left-radius: 6px;
+  border-radius: 1px;
   text-indent: 0;
-  border: 1px solid #dcdcdc;
   display: inline-block;
   color: #000;
   font-size: 1.4em;
   font-weight: bold;
   font-style: normal;
   line-height: 120px;
-  width: 40%;
+  width: 150px;
   height: 80px;
-  margin: 4.5%;
+  margin: 5px 0px 0 5px;
   text-decoration: none;
   text-align: center;
   text-shadow: 1px 1px 0px #ffffff; }
-  .button:hover {
+  a.button:hover {
     background-color: #dfdfdf; }
-  .button:active {
-    position: relative;
-    top: 1px; }
-  .button .icon {
+  a.button:active {
+    position: relative; }
+  a.button .icon {
     display: block;
-    width: 15%;
-    margin: 1px 12.5%; }
+    width: 45px;
+    height: auto;
+    margin: 1px 52.5px; }
 
 a.button.help {
-  margin: 4.5% 30% !important; }
+  margin: 1% 85px 0 85px; }
 
 .linkList {
   width: 100%;
   display: inline-block;
-  padding: 0.5em 0;
+  padding: 0.5em 1em;
   margin: 0;
+  text-align: left;
   font-size: 1.3em;
   -moz-box-shadow: inset 0px 1px 0px 0px #ffffff;
   -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
@@ -105,9 +97,9 @@ a.button.help {
 .do, .dont {
   margin: 0;
   text-align: left;
-  padding: 1em 0 1em 1em;
+  padding: 1em 0 1em 3.3em;
   background-repeat: no-repeat;
-  background-position: 90% center; }
+  background-position: 5% center; }
 
 .dont {
   background-color: #ff3333;
@@ -120,9 +112,13 @@ a.button.help {
   background-image: url(../icons/do.svg); }
 
 .dropDownButton {
-  margin-left: 0.5em;
-  width: 1em;
-  float: right; }
+  margin: 0.5em;
+  float: right;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid black; }
 
 .additionalInfo {
   margin: 0.5em 1em;
