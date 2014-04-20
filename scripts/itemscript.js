@@ -69,9 +69,14 @@ $(document).ready(function () {
 	siteTitle = siteTitle[0].toUpperCase() + siteTitle.slice(1);
 	$( "#mainContent" ).before("<h1>" + siteTitle + "</h1>");
 	$("#mainContent").on('click','.infoline',function(){
-		$(".activeAditional").slideUp("fast");
-		$(".activeAditional").removeClass("activeAditional");
-		$(this).next(".additionalInfo").addClass("activeAditional").slideToggle("fast");
+		if($(this).next(".additionalInfo").hasClass("activeAditional")){
+			$(this).next(".additionalInfo").slideUp("fast");
+			$(".activeAditional").removeClass("activeAditional");
+		}else{
+			$(".activeAditional").slideUp("fast").removeClass("activeAditional");
+			$(this).next(".additionalInfo").addClass("activeAditional");
+			$(this).next(".additionalInfo").slideDown("fast");
+		}
 	});
 	$("a[href='#']").attr("href", "category.html?category=" + getUrlVars().subcat);
 	$(document).on('click','.tips',function(){
