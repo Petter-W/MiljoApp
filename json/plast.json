@@ -1,8 +1,8 @@
 {
 	"garbage": [
 		{
-			"title": "Myk plast",
-			"URLfriendlyName": "mykplast",
+			"title": "Flasker og kanner",
+			"URLfriendlyName": "flasker-kanner",
 			"info": [
 				{
 					"text": "Kast med restavfall",
@@ -16,29 +16,65 @@
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
-					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"value": true,
+					"additionalInfo": "Plastavfall kan leveres på alle gjenbruksstasjoner hvis ønskelig"
 				},
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
+				}
+			],
+			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen. "
+		},{
+			"title": "Folie og poser",
+			"URLfriendlyName": "folie-poser",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo": "Plast skal i egen pose."
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Kast i blå pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": true,
+					"additionalInfo": "Plastavfall kan leveres på alle gjenbruksstasjoner hvis ønskelig"
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": ""
 				}
 			],
 			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen."
 		},{
-			"title": "Hard plast",
-			"URLfriendlyName": "hardplast",
+			"title": "Bokser/blomsterpotter",
+			"URLfriendlyName": "bokser-potter",
 			"info": [
 				{
 					"text": "Kast med restavfall",
@@ -52,23 +88,23 @@
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
-					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"value": true,
+					"additionalInfo": "Plastavfall kan leveres på alle gjenbruksstasjoner hvis ønskelig"
 				},
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				}
 			],
 			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen."

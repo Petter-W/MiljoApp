@@ -1,0 +1,77 @@
+{
+	"garbage": [
+		{
+			"title": "Treavfall",
+			"URLfriendlyName": "treavfall",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo": "Leveres på gjenbruksstasjon"
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": false,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": true,
+					"additionalInfo": "Av hageavfallet som leveres til Renovasjonsetatens mottak, lages kompostprodukter av merket Oslokompost"
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": ""
+				}
+			],
+			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut."
+		},{
+			"title": "Planter og gress",
+			"URLfriendlyName": "planter-gress",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo": "Leveres på gjenbruksstasjon"
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": false,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": true,
+					"additionalInfo": "Av hageavfallet som leveres til Renovasjonsetatens mottak, lages kompostprodukter av merket Oslokompost"
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": ""
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": ""
+				}
+			],
+			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut."
+		}
+	]
+}

@@ -7,22 +7,22 @@
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo":				
+					"additionalInfo": ""			
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": true,
-					"additionalInfo": "Matavfall skal i grønn pose"
+					"additionalInfo": "Matavfall skal i grønn pose. Husk dobbel knute!"
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": false,
-					"additionalInfo":
+					"additionalInfo": ""
 				},
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan resirkuleres",
@@ -32,10 +32,9 @@
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				}
 			],
-			"tips": 
 		},{
 			"title": "Kaffe-/terester",
 			"URLfriendlyName": "kaffe-te-rester",
@@ -43,22 +42,22 @@
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo":				
+					"additionalInfo": ""			
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": true,
-					"additionalInfo": "Kaffe og te skal i grønn pose"
+					"additionalInfo": "Kaffe og te skal i grønn pose. Husk dobbel knute!"
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": false,
-					"additionalInfo":
+					"additionalInfo": ""
 				},
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan resirkuleres",
@@ -68,7 +67,7 @@
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				}
 			]
 		},{
@@ -78,47 +77,47 @@
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo":				
+					"additionalInfo": ""			
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": true,
-					"additionalInfo": "Skrell og skrotter skal i grønn pose"
+					"additionalInfo": "Skrell og skrotter skal i grønn pose. Husk dobbel knute!"
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": false,
-					"additionalInfo":
+					"additionalInfo": ""
 				},
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": "Matavfall blir brukt til dyrefôr eller omgjort til drivstoff"
+					"additionalInfo": "Matavfall blir omgjort til drivstoff eller gjødsel"
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				}
 			]
 		},{
 			"title": "Mat-/frityrolje",
-			"URLfriendlyName": olje,
+			"URLfriendlyName": "olje",
 			"info": [
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo":				
+					"additionalInfo": ""			
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": true,
-					"additionalInfo": "Olje skal i grønn pose"
+					"additionalInfo": "Kastes i grønn pose. Husk dobbel knute!"
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
@@ -128,17 +127,17 @@
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": "Matavfall blir brukt til dyrefôr eller omgjort til drivstoff"
+					"additionalInfo": "Matavfall blir omgjort til drivstoff eller gjødsel"
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				}
 			]
 		},{
@@ -148,32 +147,32 @@
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo":				
+					"additionalInfo": ""		
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": true,
-					"additionalInfo": "Skrell og skrotter skal i grønn pose"
+					"additionalInfo": "Skrell og skrotter skal i grønn pose. Husk dobbel knute!"
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": false,
-					"additionalInfo":
+					"additionalInfo": ""
 				},
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": "Matavfall blir brukt til dyrefôr eller omgjort til drivstoff"
+					"additionalInfo": "Matavfall blir omgjort til drivstoff eller gjødsel"
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": ""
 				}
 			]
 		}
