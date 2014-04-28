@@ -3,7 +3,7 @@
 	"garbage": [
 		{
 			"title": "Syre",
-			"URLfriendlyName": "bilbatteri",
+			"URLfriendlyName": "syre",
 			"info": [
 				{
 					"text": "Kast med restavfall",
@@ -16,7 +16,7 @@
 					"additionalInfo": "Kast i søpla"
 				},
 				{
-					"text": "Lever på gjenbrukssatsjon",
+					"text": "Lever på gjenbruksstasjon",
 					"value": true,
 					"additionalInfo": "Kast i søpla"
 				},

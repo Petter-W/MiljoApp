@@ -1,0 +1,181 @@
+{
+	"garbage": [
+		{
+			"title": "Matrester",
+			"URLfriendlyName": "matrester",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo":				
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Matavfall skal i grønn pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": false,
+					"additionalInfo":
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Matavfall blir omgjort til drivstoff eller gjødsel"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			],
+			"tips": 
+		},{
+			"title": "Kaffe-/terester",
+			"URLfriendlyName": "kaffe-te-rester",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo":				
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Kaffe og te skal i grønn pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": false,
+					"additionalInfo":
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Matavfall blir omgjort til drivstoff eller gjødsel"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			]
+		},{
+			"title": "Skrell og skrotter",
+			"URLfriendlyName": "skrell-skrotter",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo":				
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Skrell og skrotter skal i grønn pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": false,
+					"additionalInfo":
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Matavfall blir brukt til dyrefôr eller omgjort til drivstoff"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			]
+		},{
+			"title": "Mat-/frityrolje",
+			"URLfriendlyName": olje,
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo":				
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Olje skal i grønn pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": true,
+					"additionalInfo": "Leveres godt emballert til gjenbruksstasjon"
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Matavfall blir brukt til dyrefôr eller omgjort til drivstoff"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			]
+		},{
+			"title": "Skrell og skrotter",
+			"URLfriendlyName": "skrell-skrotter",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo":				
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Skrell og skrotter skal i grønn pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": false,
+					"additionalInfo":
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Matavfall blir brukt til dyrefôr eller omgjort til drivstoff"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			]
+		}
+	]
+}

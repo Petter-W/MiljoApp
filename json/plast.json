@@ -1,0 +1,77 @@
+{
+	"garbage": [
+		{
+			"title": "Myk plast",
+			"URLfriendlyName": "mykplast",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo": "Plast skal i egen pose."
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Kast i blå pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			],
+			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen."
+		},{
+			"title": "Hard plast",
+			"URLfriendlyName": "hardplast",
+			"info": [
+				{
+					"text": "Kast med restavfall",
+					"value": false,
+					"additionalInfo": "Plast skal i egen pose."
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": true,
+					"additionalInfo": "Kast i blå pose"
+				},
+				{
+					"text": "Lever på gjenbruksstasjon",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Håndter forsiktig",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Kast i søpla"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Kast i søpla"
+				}
+			],
+			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen."
+		}
+	]
+}

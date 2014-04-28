@@ -17,7 +17,7 @@
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": true,
-					"additionalInfo": "Lever til gjenbruksstasjon eller til forhandler av produktet"
+					"additionalInfo": "Kast i søpla"
 				},
 				{
 					"text": "Håndter forsiktig",
@@ -41,32 +41,17 @@
 			"URLfriendlyName": "datautstyr-og-kabler",
 			"info": [
 				{
-					"text": "Kast med restavfall",
-					"value": false,
-					"additionalInfo": "Det er veldig skadelig for miljøet å kaste bilbatterier sammen med normalt søppel."
-				},
-				{
-					"text": "Kast i farget pose",
+					"text": "Kast i søpla",
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				},
 				{
-					"text": "Lever på gjenbruksstasjon",
-					"value": true,
-					"additionalInfo": "Kast i søpla"
-				},
-				{
-					"text": "Håndter forsiktig",
-					"value": true,
-					"additionalInfo": "Kast i søpla"
-				},
-				{
-					"text": "Kan resirkuleres",
+					"text": "Kast i søpla",
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				},
 				{
-					"text": "Kan selges/gis bort",
+					"text": "Kast i søpla",
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				}
@@ -76,32 +61,17 @@
 			"URLfriendlyName": "hvitevarer",
 			"info": [
 				{
-					"text": "Kast med restavfall",
-					"value": false,
-					"additionalInfo": "Det er veldig skadelig for miljøet å kaste bilbatterier sammen med normalt søppel."
-				},
-				{
-					"text": "Kast i farget pose",
+					"text": "Kast i søpla",
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				},
 				{
-					"text": "Lever på gjenbruksstasjon",
-					"value": true,
-					"additionalInfo": "Kast i søpla"
-				},
-				{
-					"text": "Håndter forsiktig",
-					"value": true,
-					"additionalInfo": "Kast i søpla"
-				},
-				{
-					"text": "Kan resirkuleres",
+					"text": "Kast i søpla",
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				},
 				{
-					"text": "Kan selges/gis bort",
+					"text": "Kast i søpla",
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				}
