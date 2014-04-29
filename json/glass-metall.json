@@ -35,7 +35,7 @@
 					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				}
 			],
-			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. //br//br Gjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
+			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. \r\n\nGjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
 			"needMap": true
 		}
 		,{
@@ -73,7 +73,7 @@
 					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				}
 			],
-			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. //br//br Gjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
+			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. \r\n\nGjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
 			"needMap": true
 		}
 		,{
@@ -111,7 +111,7 @@
 					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				}
 			],
-			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. //br//br Gjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
+			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. \r\n\nGjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
 			"needMap": false
 		}
 	]
