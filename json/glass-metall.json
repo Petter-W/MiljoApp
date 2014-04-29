@@ -1,85 +1,117 @@
 {
 	"garbage": [
 		{
-			"title": "Bilbatteri",
-			"URLfriendlyName": "bilbatteri",
+			"title": "Klart og farget glass",
+			"URLfriendlyName": "klart-og-farget-glass",
 			"info": [
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo": "Det er veldig skadelig for miljøet å kaste bilbatterier sammen med normalt søppel."
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				},
 				{
-					"text": "Lever på gjenbruksstasjon",
+					"text": "Lever på gjenbrukssatsjon",
 					"value": true,
 					"additionalInfo": "Kast i søpla"
 				},
 				{
 					"text": "Håndter forsiktig",
-					"value": true,
-					"additionalInfo": "Kast i søpla"
+					"value": false,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				},
 				{
 					"text": "Kan resirkuleres",
-					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"value": true,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				}
 			],
-			"tips": "Tekst",
+			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. //br//br Gjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
 			"needMap": true
-		},{
-			"title": "Datautstyr og kabler",
-			"URLfriendlyName": "datautstyr-og-kabler",
+		}
+		,{
+			"title": "Hermetikk og metallbokser",
+			"URLfriendlyName": "hermetikk-og-metallbokser",
 			"info": [
 				{
-					"text": "Kast i søpla",
+					"text": "Kast med restavfall",
 					"value": false,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": false,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
+				},
+				{
+					"text": "Lever på gjenbrukssatsjon",
+					"value": true,
 					"additionalInfo": "Kast i søpla"
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
+				},
+				{
+					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				}
 			],
-			"tips": "Tekst",
+			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. //br//br Gjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
 			"needMap": true
-		},{
-			"title": "Hvitevarer",
-			"URLfriendlyName": "hvitevarer",
+		}
+		,{
+			"title": "Aluminiomsemballasje og -folie",
+			"URLfriendlyName": "aluminiomsemballasje-og-folie",
 			"info": [
 				{
-					"text": "Kast i søpla",
+					"text": "Kast med restavfall",
 					"value": false,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
+				},
+				{
+					"text": "Kast i farget pose",
+					"value": false,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
+				},
+				{
+					"text": "Lever på gjenbrukssatsjon",
+					"value": true,
 					"additionalInfo": "Kast i søpla"
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Kan resirkuleres",
+					"value": true,
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
+				},
+				{
+					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Kast i returpunkt eller lever til gjenbruksstasjon."
 				}
 			],
-			"tips": "Tekst",
+			"tips": "Etikettene kan sitte på, korker kan også leveres, men skru dem av før levering. Produktene bør også skylles før de leveres. //br//br Gjenstander som består av porselen, kjeramikk, krystall, ildfast glass, vindusglass, speil, lyspærer, lysstoffrør, plastkorker, farge, fargespray, lakk, løsningsmiddel, plantevernmidler, batterier og strykehjern skal ikke kastes ved returpunktene.",
 			"needMap": false
 		}
 	]
