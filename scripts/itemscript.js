@@ -68,8 +68,13 @@ function getMap(){
 	$.getJSON(jsonName).done( function( data ){
 		$.each( data.garbage, function( i, item ){
 			if(item.URLfriendlyName === itemName.toLowerCase()){
+			console.log(this.needMap);
 			if(this.needMap){
-				$("#mainContent").html("<img src='img/map.png' alt='map' class='map' /><img src='icons/locate.png' alt='map' class='locate' />");
+				$( "#mainContent" ).html("<div id='map'></div>");
+				var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v3/petterw.i3p7eghi/{z}/{x}/{y}.png', {
+					attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
+				});
+				var map = L.map('map').addLayer(mapboxTiles).setView([59.8938549,10.7851165], 9);
 			} else{
 				$( "#mainContent" ).html("<p class='tipstext'>Kast i din lokale søppelkasse.</p>");
 			}

@@ -156,3 +156,7 @@ footer {
       bottom: 3em; }
   footer .active {
     background-color: #f7f7f7; }
+
+#map {
+  height: 300px;
+  width: 320px; }

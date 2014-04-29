@@ -36,7 +36,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": false
+			"needMap": true
 		},{
 			"title": "Datautstyr og kabler",
 			"URLfriendlyName": "datautstyr-og-kabler",
@@ -73,7 +73,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": true
+			"needMap": true
 		},{
 			"title": "Hvitevarer",
 			"URLfriendlyName": "hvitevarer",
@@ -110,7 +110,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": true
+			"needMap": true
 		}
 	]
 }
