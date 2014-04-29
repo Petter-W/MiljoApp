@@ -20,7 +20,7 @@ function getCategoriesFromJSON() {
 	//Get subcat from URL
 	var subcat = getUrlVars().category;
 	if(subcat === "restavfall"){
-		$( "#mainContent" ).append("<h1>Restavfall</h1>");
+		$( "#mainContent" ).prepend("<h1>Restavfall</h1>");
 		$( "#mainContent" ).append("<h3 class='tipstext'>Hva er restavfall?</h3>");
 		$( "#mainContent" ).append("<p class='tipstext'>Restavfall er det som blir igjen etter at du har sortert ut papir, plastemballasje, matavfall, glass- og metallemballasje, klær, farlig avfall, EE-avfall og grovavfall. Restavfallet kan ikke ombrukes eller gjenvinnes til nye materialer.</p>");
 		$( "#mainContent" ).append("<h3 class='tipstext'>Hvor skal dette leveres?</h3>");

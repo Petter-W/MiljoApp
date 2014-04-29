@@ -17,7 +17,8 @@ h1, h2, h3, h4, h5, p, a {
   text-decoration: none; }
 
 h1 {
-  margin: 0.5em 0 0.5em 0; }
+  margin: 0.5em 0;
+  font-size: 1.3em; }
 
 p {
   text-align: left; }
@@ -49,7 +50,7 @@ a.button {
   border-radius: 1px;
   text-indent: 0;
   border-top: 1px solid transparent;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid #878787;
   display: inline-block;
   color: #000;
   font-size: 1.4em;
@@ -66,7 +67,7 @@ a.button {
     background-color: #dfdfdf; }
   a.button:active {
     border-top: 1px solid #EDEDED;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid #ededed;
     position: relative; }
   a.button .icon {
     display: block;

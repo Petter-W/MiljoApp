@@ -24,7 +24,8 @@ h1,h2, h3, h4, h5, p, a{
 	text-decoration: none;
 }
 h1{
-	margin: 0.5em 0 0.5em 0;
+	margin: 0.5em 0;
+	font-size: 1.3em;
 }
 p{
 	text-align: left;
@@ -52,11 +53,12 @@ img.pose{
 	margin: 0 15%;
 }
 a.button{
-	background-color:#ededed;
+	$button-color: #ededed;
+	background-color: $button-color;
 	border-radius: 1px;
 	text-indent:0;
 	border-top: 1px solid transparent;
- 	border-bottom: 1px solid gray;
+ 	border-bottom: 1px solid darken($button-color,40%);
 	display:inline-block;
 	color:#000;
 	font-size:1.4em;
@@ -74,7 +76,7 @@ a.button{
 	}
 	&:active{
 		border-top: 1px solid #EDEDED;
-		border-bottom: 1px solid transparent;
+		border-bottom: 1px solid $button-color;
  		position: relative; 
 	}
 	.icon{
