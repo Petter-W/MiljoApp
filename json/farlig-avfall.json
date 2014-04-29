@@ -37,7 +37,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": true
+			"needMap": true
 		},{
 			"title": "Andre farligheter",
 			"URLfriendlyName": "andre-farligheter",
@@ -59,7 +59,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": true
+			"needMap": true
 		},{
 			"title": "Hvitevarer",
 			"URLfriendlyName": "hvitevarer",
@@ -81,7 +81,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": true
+			"needMap": true
 		}
 	]
 }

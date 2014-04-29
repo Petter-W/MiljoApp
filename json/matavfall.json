@@ -36,7 +36,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": false
+			"needMap": false
 		},{
 			"title": "Kaffe-/terester",
 			"URLfriendlyName": "kaffe-te-rester",
@@ -73,7 +73,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": false
+			"needMap": false
 		},{
 			"title": "Skrell og skrotter",
 			"URLfriendlyName": "skrell-skrotter",
@@ -110,7 +110,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": false
+			"needMap": false
 		},{
 			"title": "Mat-/frityrolje",
 			"URLfriendlyName": "olje",
@@ -147,7 +147,7 @@
 				}
 			],
 			"tips": "Tekst",
-			"neeedMap": true
+			"needMap": true
 		}
 	]
 }
