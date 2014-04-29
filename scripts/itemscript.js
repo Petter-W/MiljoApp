@@ -59,6 +59,7 @@ function getTips(){
 	});
 }
 
+
 function getMap(){
 	var item = getUrlVars().item;
 	//Makes subcats first letter Uppercase
@@ -71,10 +72,9 @@ function getMap(){
 			console.log(this.needMap);
 			if(this.needMap){
 				$( "#mainContent" ).html("<div id='map'></div>");
-				var mapboxTiles = L.tileLayer('https://{s}.tiles.mapbox.com/v3/petterw.i3p7eghi/{z}/{x}/{y}.png', {
-					attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
-				});
-				var map = L.map('map').addLayer(mapboxTiles).setView([59.8938549,10.7851165], 9);
+					var map = L.mapbox.map('map', 'petterw.i3p7eghi');
+					L.control.locate().addTo(map);
+				// var map = L.map('map').addLayer(mapboxTiles).setView([59.8938549,10.7851165], 9);
 			} else{
 				$( "#mainContent" ).html("<p class='tipstext'>Kast i din lokale søppelkasse.</p>");
 			}
