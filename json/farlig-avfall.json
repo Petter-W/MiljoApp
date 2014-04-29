@@ -36,51 +36,81 @@
 					"additionalInfo": "Kast i søpla"
 				}
 			],
-			"tips": "Tekst",
+			"tips": "Hver vår og høst samler vi også inn farlig avfall i bydelene. En hentebil kommer til ditt nærområde på et gitt tidspunkt. Detaljert oversikt over når og hvor, får du i postkassen en ukes tid i forveien. Du må levere til hentebilen. Det farlige avfallet skal ikke settes igjen i veikanten.",
 			"needMap": true
 		},{
-			"title": "Andre farligheter",
-			"URLfriendlyName": "andre-farligheter",
+			"title": "Spraybokser med drivgass",
+			"URLfriendlyName": "spraybokser",
 			"info": [
 				{
-					"text": "Kast i søpla",
+					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Drivgasser er farlige for miljøet. De må derfor leveres på en miljøstasjon"
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Kast i farget pose",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Drivgasser er farlige for miljøet. De må derfor leveres på en miljøstasjon"
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Lever på gjenbruksstasjon",
+					"value": true,
+					"additionalInfo": "Drivgasser er farlige for miljøet. De må derfor leveres på en miljøstasjon"
+				},
+				{
+					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Spraybokser er ikke så farlige i seg selv. Man må passe på å ikke innhalere drivgassen ettersom at dette er skadelig. Man bør også oppbevare dette unna åpne flammer."
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": false,
+					"additionalInfo": "Drivgasser er farlige for miljøet. De må derfor leveres på en miljøstasjon"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Drivgasser er farlige for miljøet. De må derfor leveres på en miljøstasjon"
 				}
 			],
-			"tips": "Tekst",
+			"tips": "Hver vår og høst samler vi også inn farlig avfall i bydelene. En hentebil kommer til ditt nærområde på et gitt tidspunkt. Detaljert oversikt over når og hvor, får du i postkassen en ukes tid i forveien. Du må levere til hentebilen. Det farlige avfallet skal ikke settes igjen i veikanten.",
 			"needMap": true
 		},{
-			"title": "Hvitevarer",
-			"URLfriendlyName": "hvitevarer",
+			"title": "Løsemidler",
+			"URLfriendlyName": "losemidler",
 			"info": [
 				{
-					"text": "Kast i søpla",
+					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Løsemidler er farlige for miljøet. De må derfor leveres på en miljøstasjon"
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Kast i farget pose",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Løsemidler er farlige for miljøet. De må derfor leveres på en miljøstasjon"
 				},
 				{
-					"text": "Kast i søpla",
+					"text": "Lever på gjenbruksstasjon",
+					"value": true,
+					"additionalInfo": "Løsemidler er farlige for miljøet. De må derfor leveres på en miljøstasjon"
+				},
+				{
+					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Løsemidler kan være skadelig dersom det innhaleres. Man bør også oppbevare dette unna åpne flammer."
+				},
+				{
+					"text": "Kan resirkuleres",
+					"value": false,
+					"additionalInfo": "Løsemidler er farlige for miljøet. De må derfor leveres på en miljøstasjon"
+				},
+				{
+					"text": "Kan selges/gis bort",
+					"value": false,
+					"additionalInfo": "Løsemidler er farlige for miljøet. De må derfor leveres på en miljøstasjon"
 				}
 			],
-			"tips": "Tekst",
+			"tips": "White Spirit, tynner, rødsprit, teknisk sprit, lynol, terpentin, neglelakkfjerner, malingsfjerner, rester av tennvæske er eksempler på forskjellige typer løsemidler. Hver vår og høst samler vi også inn farlig avfall i bydelene. En hentebil kommer til ditt nærområde på et gitt tidspunkt. Detaljert oversikt over når og hvor, får du i postkassen en ukes tid i forveien. Du må levere til hentebilen. Det farlige avfallet skal ikke settes igjen i veikanten.",
 			"needMap": true
 		}
 	]
