@@ -60,8 +60,25 @@ function getTips(){
 }
 
 function getMap(){
+	var item = getUrlVars().item;
+	//Makes subcats first letter Uppercase
+	var itemName = item[0].toUpperCase() + item.slice(1);
+	var jsonName = "json/" + getUrlVars().subcat + ".json";
+	console.log(jsonName);
+	$.getJSON(jsonName).done( function( data ){
+		$.each( data.garbage, function( i, item ){
+			if(item.URLfriendlyName === itemName.toLowerCase()){
+			if(this.needMap){
+				$("#mainContent").html("<img src='img/map.png' alt='map' class='map' /><img src='icons/locate.png' alt='map' class='locate' />");
+			} else{
+				$( "#mainContent" ).html("<p class='tipstext'>Kast i din lokale søppelkasse.</p>");
+			}
+			
+		}
+		});
+	});
 	resetThis(".map");
-	$( "#mainContent" ).html("<img src='img/map.png' alt='map' class='map' /><img src='icons/locate.png' alt='map' class='locate' />");
+	
 }
 
 $(document).ready(function () {

@@ -35,7 +35,8 @@
 					"additionalInfo": "Kast i papirbeholder/-container."
 				}
 			],
-			"tips": "Det har ingen betydning om papiret er belagt med aliminiumsfolie, plast, eller har plastkork. Dette blir senere skilt fra hverandre maskinelt. Det som er viktig er at papiret som samles inn er renest mulig. Urenheter som matavfall kan hindre at papiret kan gjenvinnes. Tilgriset papir kastes sammen med restavfallet. Tørkepapir som er tilsmusset av mat kan kastes i den grønne posen. Tørkepapir som er benyttet sammen med såpe og vaskemidler skal kastes i restavfallet."
+			"tips": "Det har ingen betydning om papiret er belagt med aliminiumsfolie, plast, eller har plastkork. Dette blir senere skilt fra hverandre maskinelt. Det som er viktig er at papiret som samles inn er renest mulig. Urenheter som matavfall kan hindre at papiret kan gjenvinnes. Tilgriset papir kastes sammen med restavfallet. Tørkepapir som er tilsmusset av mat kan kastes i den grønne posen. Tørkepapir som er benyttet sammen med såpe og vaskemidler skal kastes i restavfallet.",
+			"neeedMap": false
 		},{
 			"title": "Reklamebrosjyrer og flyers",
 			"URLfriendlyName": "reklamebrosjyrer-og-flyers",
@@ -71,7 +72,8 @@
 					"additionalInfo": "Kast i papirbeholder/-container."
 				}
 			],
-						"tips": "Det har ingen betydning om papiret er belagt med aliminiumsfolie, plast, eller har plastkork. Dette blir senere skilt fra hverandre maskinelt. Det som er viktig er at papiret som samles inn er renest mulig. Urenheter som matavfall kan hindre at papiret kan gjenvinnes. Tilgriset papir kastes sammen med restavfallet. Tørkepapir som er tilsmusset av mat kan kastes i den grønne posen. Tørkepapir som er benyttet sammen med såpe og vaskemidler skal kastes i restavfallet."
+			"tips": "Det har ingen betydning om papiret er belagt med aliminiumsfolie, plast, eller har plastkork. Dette blir senere skilt fra hverandre maskinelt. Det som er viktig er at papiret som samles inn er renest mulig. Urenheter som matavfall kan hindre at papiret kan gjenvinnes. Tilgriset papir kastes sammen med restavfallet. Tørkepapir som er tilsmusset av mat kan kastes i den grønne posen. Tørkepapir som er benyttet sammen med såpe og vaskemidler skal kastes i restavfallet.",
+			"neeedMap": false
 		},{
 			"title": "Kartong og papp",
 			"URLfriendlyName": "kartong-og-papp",
@@ -107,7 +109,8 @@
 					"additionalInfo": "Kast i papirbeholder/-container."
 				}
 			],
-			"tips": "Det har ingen betydning om papiret er belagt med aliminiumsfolie, plast, eller har plastkork. Dette blir senere skilt fra hverandre maskinelt. Det som er viktig er at papiret som samles inn er renest mulig. Urenheter som matavfall kan hindre at papiret kan gjenvinnes. Tilgriset papir kastes sammen med restavfallet. Tørkepapir som er tilsmusset av mat kan kastes i den grønne posen. Tørkepapir som er benyttet sammen med såpe og vaskemidler skal kastes i restavfallet."
+			"tips": "Det har ingen betydning om papiret er belagt med aliminiumsfolie, plast, eller har plastkork. Dette blir senere skilt fra hverandre maskinelt. Det som er viktig er at papiret som samles inn er renest mulig. Urenheter som matavfall kan hindre at papiret kan gjenvinnes. Tilgriset papir kastes sammen med restavfallet. Tørkepapir som er tilsmusset av mat kan kastes i den grønne posen. Tørkepapir som er benyttet sammen med såpe og vaskemidler skal kastes i restavfallet.",
+			"neeedMap": false
 		}
 	]
 }

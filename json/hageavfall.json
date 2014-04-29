@@ -35,7 +35,8 @@
 					"additionalInfo": ""
 				}
 			],
-			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut."
+			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut.",
+			"neeedMap": false
 		},{
 			"title": "Planter og gress",
 			"URLfriendlyName": "planter-gress",
@@ -71,7 +72,8 @@
 					"additionalInfo": ""
 				}
 			],
-			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut."
+			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut.",
+			"neeedMap": false
 		}
 	]
 }

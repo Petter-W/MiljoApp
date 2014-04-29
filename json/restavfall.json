@@ -35,7 +35,8 @@
 					"additionalInfo": "Kast i søpla"
 				}
 			],
-			"tips": "Tekst"
+			"tips": "Tekst",
+			"neeedMap": false
 		},{
 			"title": "Datautstyr og kabler",
 			"URLfriendlyName": "datautstyr-og-kabler",
@@ -75,7 +76,9 @@
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				}
-			]
+			],
+			"tips": "Tekst",
+			"neeedMap": false
 		}
 	]
 }

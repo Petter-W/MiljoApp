@@ -35,7 +35,8 @@
 					"additionalInfo": ""
 				}
 			],
-			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen. "
+			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen.",
+			"neeedMap": true
 		},{
 			"title": "Folie og poser",
 			"URLfriendlyName": "folie-poser",
@@ -71,7 +72,8 @@
 					"additionalInfo": ""
 				}
 			],
-			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen."
+			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen.",
+			"neeedMap": false
 		},{
 			"title": "Bokser/blomsterpotter",
 			"URLfriendlyName": "bokser-potter",
@@ -107,7 +109,8 @@
 					"additionalInfo": ""
 				}
 			],
-			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen."
+			"tips": "Husk å skylle plastemballasjen i kaldt vann og bruk gjerne oppvaskbørsten for å fjerne rester. Når plasten er ren skal den ristes og legges i den blå posen.",
+			"neeedMap": true
 		}
 	]
 }

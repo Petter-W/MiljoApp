@@ -36,7 +36,8 @@
 					"additionalInfo": "Kast i søpla"
 				}
 			],
-			"tips": "Tekst"
+			"tips": "Tekst",
+			"neeedMap": true
 		},{
 			"title": "Andre farligheter",
 			"URLfriendlyName": "andre-farligheter",
@@ -56,7 +57,9 @@
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				}
-			]
+			],
+			"tips": "Tekst",
+			"neeedMap": true
 		},{
 			"title": "Hvitevarer",
 			"URLfriendlyName": "hvitevarer",
@@ -76,7 +79,9 @@
 					"value": false,
 					"additionalInfo": "Kast i søpla"
 				}
-			]
+			],
+			"tips": "Tekst",
+			"neeedMap": true
 		}
 	]
 }
