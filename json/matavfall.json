@@ -34,7 +34,7 @@
 					"value": false,
 					"additionalInfo": ""
 				}
-			],
+			]
 		},{
 			"title": "Kaffe-/terester",
 			"URLfriendlyName": "kaffe-te-rester",
@@ -123,41 +123,6 @@
 					"text": "Lever på gjenbruksstasjon",
 					"value": true,
 					"additionalInfo": "Leveres godt emballert til gjenbruksstasjon"
-				},
-				{
-					"text": "Håndter forsiktig",
-					"value": false,
-					"additionalInfo": ""
-				},
-				{
-					"text": "Kan resirkuleres",
-					"value": true,
-					"additionalInfo": "Matavfall blir omgjort til drivstoff eller gjødsel"
-				},
-				{
-					"text": "Kan selges/gis bort",
-					"value": false,
-					"additionalInfo": ""
-				}
-			]
-		},{
-			"title": "Skrell og skrotter",
-			"URLfriendlyName": "skrell-skrotter",
-			"info": [
-				{
-					"text": "Kast med restavfall",
-					"value": false,
-					"additionalInfo": ""		
-				},
-				{
-					"text": "Kast i farget pose",
-					"value": true,
-					"additionalInfo": "Skrell og skrotter skal i grønn pose. Husk dobbel knute!"
-				},
-				{
-					"text": "Lever på gjenbruksstasjon",
-					"value": false,
-					"additionalInfo": ""
 				},
 				{
 					"text": "Håndter forsiktig",

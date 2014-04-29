@@ -55,7 +55,8 @@ a.button{
 	background-color:#ededed;
 	border-radius: 1px;
 	text-indent:0;
-	// border:1px solid #dcdcdc;
+	border-top: 1px solid transparent;
+ 	border-bottom: 1px solid gray;
 	display:inline-block;
 	color:#000;
 	font-size:1.4em;
@@ -72,7 +73,9 @@ a.button{
 		background-color:#dfdfdf;
 	}
 	&:active{
-		position:relative;
+		border-top: 1px solid #EDEDED;
+		border-bottom: 1px solid transparent;
+ 		position: relative; 
 	}
 	.icon{
 		display: block;
