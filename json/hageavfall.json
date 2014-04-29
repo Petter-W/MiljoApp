@@ -22,7 +22,7 @@
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": ""
+					"additionalInfo": "Pass på å ikke stikke deg på grener. Det kan være en idé å bruke hansker."
 				},
 				{
 					"text": "Kan resirkuleres",
@@ -36,10 +36,10 @@
 				}
 			],
 			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut.",
-			"needMap": false
+			"needMap": true
 		},{
 			"title": "Planter og gress",
-			"URLfriendlyName": "planter-gress",
+			"URLfriendlyName": "planter-og-gress",
 			"info": [
 				{
 					"text": "Kast med restavfall",
@@ -49,7 +49,7 @@
 				{
 					"text": "Kast i farget pose",
 					"value": false,
-					"additionalInfo": ""
+					"additionalInfo": "Leveres på gjenbruksstasjon"
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
@@ -64,16 +64,16 @@
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": ""
+					"additionalInfo": "Kan brukes som kompost"
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": ""
+					"additionalInfo": "Kan brukes som kompost"
 				}
 			],
 			"tips": "Hageavfall er kvister, løv, gress, planterester, røtter og stammer. Ren jord, leire, sand og naturstein tas også i mot hvis egenerklæringsskjema for private og næringsdrivende er fylt ut.",
-			"needMap": false
+			"needMap": true
 		}
 	]
 }
