@@ -22,17 +22,17 @@
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i papirbeholder/-container."
+					"additionalInfo": "Papercut kan gjøre vondt, men er ikke så veldig farlig."
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": "Kast i papirbeholder/-container."				
+					"additionalInfo": "Kast i papirbeholder/-container. Da blir det omgjort til nytt papir."
 				},
 				{
 					"text": "Kan selges/gis bort",
-					"value": false,
-					"additionalInfo": "Kast i papirbeholder/-container."
+					"value": true,
+					"additionalInfo": "Spesielt eldre aviser og magasiner kan selges."
 				}
 			],
 			"tips": "Det har ingen betydning om papiret er belagt med aliminiumsfolie, plast, eller har plastkork. Dette blir senere skilt fra hverandre maskinelt. Det som er viktig er at papiret som samles inn er renest mulig. Urenheter som matavfall kan hindre at papiret kan gjenvinnes. Tilgriset papir kastes sammen med restavfallet. Tørkepapir som er tilsmusset av mat kan kastes i den grønne posen. Tørkepapir som er benyttet sammen med såpe og vaskemidler skal kastes i restavfallet.",
@@ -59,7 +59,7 @@
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i papirbeholder/-container."
+					"additionalInfo": "Papercut kan gjøre vondt, men er ikke så veldig farlig."
 				},
 				{
 					"text": "Kan resirkuleres",
@@ -96,12 +96,12 @@
 				{
 					"text": "Håndter forsiktig",
 					"value": false,
-					"additionalInfo": "Kast i papirbeholder/-container."
+					"additionalInfo": "Papercut kan gjøre vondt, men er ikke så veldig farlig."
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": true,
-					"additionalInfo": "Kast i papirbeholder/-container."				
+					"additionalInfo": "Kast i papirbeholder/-container. Da blir det omgjort til nytt papir."
 				},
 				{
 					"text": "Kan selges/gis bort",
