@@ -1,28 +1,28 @@
 {
 	"garbage": [
 		{
-			"title": "Bilbatteri",
-			"URLfriendlyName": "bilbatteri",
+			"title": "Batterier",
+			"URLfriendlyName": "batterier",
 			"info": [
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo": "Det er veldig skadelig for miljøet å kaste bilbatterier sammen med normalt søppel."
+					"additionalInfo": "Det er veldig skadelig for miljøet å kaste batterier sammen med normalt søppel."
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Det er veldig skadelig for miljøet å kaste batterier sammen med normalt søppel."
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": true,
-					"additionalInfo": "Lever til gjenbruksstasjon eller til forhandler av produktet"
+					"additionalInfo": "Alle brukte batterier skal leveres inn. Det kan du gjøre gratis hos enhver forhandler av den aktuelle batteritypen. Du kan også levere inn til din lokale gjenbruksstasjon."
 				},
 				{
 					"text": "Håndter forsiktig",
 					"value": true,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Vær oppmerksom på at et batteri er en beholder med konsentrert energi. Håndterer du det feil, kan energien plutselig frigjøres. Det kan bli veldig varmt, og i verste fall kan det eksplodere. Du må derfor ikke lade et engangsbatteri, og du må kun bruke egnet lader til et oppladbart batteri."
 				},
 				{
 					"text": "Kan resirkuleres",
@@ -35,7 +35,7 @@
 					"additionalInfo": "Kast i søpla"
 				}
 			],
-			"tips": "Tekst",
+			"tips": "Kjøp deg oppladbare batterier. På denne måten slipper du å kaste batteriene så ofte.",
 			"needMap": true
 		},{
 			"title": "Datautstyr og kabler",
@@ -44,32 +44,32 @@
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo": "Det er veldig skadelig for miljøet å kaste bilbatterier sammen med normalt søppel."
+					"additionalInfo": "Det kan være veldig skadelig å kaste datautstyr sammen med normalt søppel. Det kan inneholde miljøskadelige stoffer."
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Lever gratis til forhandlere – selv om du ikke har kjøpt produktet der – eller til din lokale gjenbruksstasjon."
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": true,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Lever gratis til forhandlere – selv om du ikke har kjøpt produktet der – eller til din lokale gjenbruksstasjon."
 				},
 				{
 					"text": "Håndter forsiktig",
-					"value": true,
-					"additionalInfo": "Kast i søpla"
+					"value": false,
+					"additionalInfo": "Lever gratis til forhandlere – selv om du ikke har kjøpt produktet der – eller til din lokale gjenbruksstasjon."
 				},
 				{
 					"text": "Kan resirkuleres",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Lever gratis til forhandlere – selv om du ikke har kjøpt produktet der – eller til din lokale gjenbruksstasjon."
 				},
 				{
 					"text": "Kan selges/gis bort",
-					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"value": true,
+					"additionalInfo": "Hvis produktene fortsatt fungerer kan de selges eller gis bort. Det kan også hende at det vil lønne seg å få reparert produktet fremfor å kjøpe et nytt."
 				}
 			],
 			"tips": "Tekst",
