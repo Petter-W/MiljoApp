@@ -87,10 +87,14 @@ function getMap(){
 }
 
 $(document).ready(function () {
-	var siteTitle = getUrlVars().item;
-	siteTitle = siteTitle[0].toUpperCase() + siteTitle.slice(1);
-	siteTitle = siteTitle.split('-').join(' ');
-	$( "#mainContent" ).before("<h1>" + siteTitle + "</h1>");
+	var jsonName = "json/" + getUrlVars().subcat + ".json";
+	$.getJSON(jsonName).done( function( data ){
+		$.each( data.garbage, function( i, item ){
+			if(getUrlVars().item === item.URLfriendlyName){
+				$( "#mainContent" ).before("<h1>" + item.title + "</h1>");
+			}
+		});
+	});
 	$("#mainContent").on('click','.infoline',function(){
 		if($(this).next(".additionalInfo").hasClass("activeAditional")){
 			$(this).next(".additionalInfo").slideUp("fast");
