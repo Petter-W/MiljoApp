@@ -91,7 +91,11 @@ $(document).ready(function () {
 	$.getJSON(jsonName).done( function( data ){
 		$.each( data.garbage, function( i, item ){
 			if(getUrlVars().item === item.URLfriendlyName){
-				$( "#mainContent" ).before("<h1>" + item.title + "</h1>");
+				var title = item.title;
+				if(title.length > 18){
+					title = title.substring(0,18)+"…";
+				}
+				$( "#mainContent" ).before("<h1>" + title + "</h1>");
 			}
 		});
 	});
