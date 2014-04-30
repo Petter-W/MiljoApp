@@ -161,3 +161,6 @@ footer {
 #map {
   height: 300px;
   width: 320px; }
+
+.leaflet-popup-content-wrapper {
+  max-width: 270px; }
