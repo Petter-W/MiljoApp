@@ -7,17 +7,17 @@
 				{
 					"text": "Kast med restavfall",
 					"value": false,
-					"additionalInfo": "Det er veldig skadelig for miljøet å kaste batterier sammen med normalt søppel."
+					"additionalInfo": "Batterier skal ikke kastes i restavfallet, men leveres til gjenbruksstasjon, minigjenbruksstasjon eller forhandler/butikk. Grunnen er at noen batterier inneholder tungmetaller som bly, kadmium og lithium, som er svært skadelig for miljøet."
 				},
 				{
 					"text": "Kast i farget pose",
 					"value": false,
-					"additionalInfo": "Det er veldig skadelig for miljøet å kaste batterier sammen med normalt søppel."
+					"additionalInfo": "Batterier skal ikke kastes i restavfallet, men leveres til gjenbruksstasjon, minigjenbruksstasjon eller forhandler/butikk. Grunnen er at noen batterier inneholder tungmetaller som bly, kadmium og lithium, som er svært skadelig for miljøet."
 				},
 				{
 					"text": "Lever på gjenbruksstasjon",
 					"value": true,
-					"additionalInfo": "Alle brukte batterier skal leveres inn. Det kan du gjøre gratis hos enhver forhandler av den aktuelle batteritypen. Du kan også levere inn til din lokale gjenbruksstasjon."
+					"additionalInfo": "Alle brukte batterier skal leveres inn. Det kan du gjøre gratis hos enhver forhandler av den aktuelle batteritypen. Du kan også levere inn til din lokale gjenbruksstasjon. Grunnen til at batterier må behandles spesielt er at noen batterier inneholder tungmetaller som bly, kadmium og lithium, som er svært skadelig for miljøet."
 				},
 				{
 					"text": "Håndter forsiktig",
@@ -27,12 +27,12 @@
 				{
 					"text": "Kan resirkuleres",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Batterier skal ikke kastes i restavfallet, men leveres til gjenbruksstasjon, minigjenbruksstasjon eller forhandler/butikk. Grunnen er at noen batterier inneholder tungmetaller som bly, kadmium og lithium, som er svært skadelig for miljøet."
 				},
 				{
 					"text": "Kan selges/gis bort",
 					"value": false,
-					"additionalInfo": "Kast i søpla"
+					"additionalInfo": "Batterier skal ikke kastes i restavfallet, men leveres til gjenbruksstasjon, minigjenbruksstasjon eller forhandler/butikk. Grunnen er at noen batterier inneholder tungmetaller som bly, kadmium og lithium, som er svært skadelig for miljøet.
 				}
 			],
 			"tips": "Kjøp deg oppladbare batterier. På denne måten slipper du å kaste batteriene så ofte.",
@@ -72,7 +72,7 @@
 					"additionalInfo": "Hvis produktene fortsatt fungerer kan de selges eller gis bort. Det kan også hende at det vil lønne seg å få reparert produktet fremfor å kjøpe et nytt."
 				}
 			],
-			"tips": "Tekst",
+			"tips": "Batterier skal ikke kastes i restavfallet, men leveres til gjenbruksstasjon, minigjenbruksstasjon eller forhandler/butikk. Grunnen er at noen batterier inneholder tungmetaller som bly, kadmium og lithium, som er svært skadelig for miljøet. \n \n Bil-, båt- og blyakkumulatorer skal leveres til salgssteder for slike batterier, eller til gjenbruksstasjoner og minigjenbruksstasjoner.\n\n\t Hva skjer med batteriene? \n\nBatteriene sendes til Batteriretur. Her skilles tungmetallene ut på en forsvarlig måte, og de kan brukes om igjen til andre produkter. Enkelte typer batterier sendes til spesialmottak i England og Sverige for gjenvinning.",
 			"needMap": true
 		},{
 			"title": "Hvitevarer",
