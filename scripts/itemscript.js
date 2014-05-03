@@ -53,7 +53,7 @@ function getTips(){
 		$.each( data.garbage, function( i, item ){
 			if(item.URLfriendlyName === itemName.toLowerCase()){
 			console.log(item.name);
-			$( "#mainContent" ).html("<p class='tipstext'>" + this.tips + "</p>");
+			$( "#mainContent" ).html("<p class='normalText info1'>" + this.tips + "</p>");
 		}
 		});
 	});
